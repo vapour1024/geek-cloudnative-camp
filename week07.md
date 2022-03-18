@@ -278,7 +278,7 @@ globalDefault:false
 
 ```yaml
 spec:
-	priorityClassName: high-priority
+    priorityClassName: high-priority
 ```
 
 descheduler 将负载均衡到所有节点上
